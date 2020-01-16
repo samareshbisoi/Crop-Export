@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="in.pocketapp.cropexport" version="4.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Crop Expert</name>
-    <description>Official App of Crop Export.</description>
+    <description>Official App of Crop Expert.</description>
     <author email="support@pocketapp.in" href="http://pocketapp.in">
      PocketApp.in
     </author>
